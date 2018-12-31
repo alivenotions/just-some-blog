@@ -3,7 +3,7 @@ module.exports = {
     title: `Just Some Words`,
     author: `Bhavdeep Dhanjal`,
     description: `Personal blog of Bhavdeep Dhanjal`,
-    // siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: ``,
     social: {
       twitter: `blankmannow`,
     },
