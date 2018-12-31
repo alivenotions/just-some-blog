@@ -14,10 +14,10 @@ function Bio() {
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(2.5),
+              marginBottom: rhythm(1),
             }}
           >
-            <Image
+            {/* <Image
               fixed={data.avatar.childImageSharp.fixed}
               alt={author}
               style={{
@@ -26,7 +26,7 @@ function Bio() {
                 minWidth: 50,
                 borderRadius: `100%`,
               }}
-            />
+            /> */}
             <p>
               Hi! I am <strong><a href={`https://twitter.com/${social.twitter}`}>{author}</a></strong>.
               This blog is a space for me to babble. I hope you have a good time here!

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Just Some Words`,
+    title: `thinkspace.`,
     author: `Bhavdeep Dhanjal`,
     description: `Personal blog of Bhavdeep Dhanjal`,
     siteUrl: ``,
@@ -57,13 +57,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Just some words`,
-        short_name: `justsomewords`,
+        name: `thinkspace`,
+        short_name: `thinkspace`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#43B992`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/BD.png`,
       },
     },
     `gatsby-plugin-offline`,

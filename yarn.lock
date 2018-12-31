@@ -11588,6 +11588,11 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
+typeface-josefin-sans@0.0.54:
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/typeface-josefin-sans/-/typeface-josefin-sans-0.0.54.tgz#c7f1c88d9a01605762465139ef9f485b42c306ff"
+  integrity sha512-wpApRq22rGuK82Atg4T5Bei/3Yrjc9rdtDOadW5pOJs1eoyDrbb6GZ3ovWizjq8Va0Ak4TMUAgkYyag65w5xJw==
+
 typeface-merriweather@0.0.43:
   version "0.0.43"
   resolved "https://registry.yarnpkg.com/typeface-merriweather/-/typeface-merriweather-0.0.43.tgz#b615f7aaf5f826c0cf1da7473af7ef28c7c44428"
@@ -11597,6 +11602,11 @@ typeface-montserrat@0.0.43:
   version "0.0.43"
   resolved "https://registry.yarnpkg.com/typeface-montserrat/-/typeface-montserrat-0.0.43.tgz#c70d76b85ab613a9f4855c061c354eac561c1aae"
   integrity sha512-lWyRVih5jJqZyOAj1+sCj8MijF+roNHrN11eD4fOGpj1dV7nS82kTnYVoz0TIGTu8/Arqw0eCytV1XdFe/i2aw==
+
+typeface-permanent-marker@0.0.54:
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/typeface-permanent-marker/-/typeface-permanent-marker-0.0.54.tgz#7e52c0355e18f360917ced541606c3b3cc9149ee"
+  integrity sha512-I+imSFSOZ4zCEUiDzXt06AEufN1J2bZpeQxtvjHLL48aqodqtr4kevWxQu4q19qXmaKSOo83OXS4JdqWMl2XNg==
 
 typography-breakpoint-constants@^0.15.10:
   version "0.15.10"

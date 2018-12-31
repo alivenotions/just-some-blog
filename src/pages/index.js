@@ -5,7 +5,7 @@ import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import Footer from '../components/Footer'
-import { rhythm } from '../utils/typography'
+import { rhythm, scale } from '../utils/typography'
 
 class BlogIndex extends React.Component {
   render() {
@@ -26,10 +26,10 @@ class BlogIndex extends React.Component {
             <div key={node.fields.slug}>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginBottom: rhythm(1 / 20),
                 }}
               >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                <Link style={{ boxShadow: `none`, ...scale(0.7) }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
