@@ -16,8 +16,8 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="All posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          title="thinkspace"
+          keywords={[`blog`, `gatsby`, `javascript`, `react`, `node`, `functional`]}
         />
         <Bio />
         {posts.map(({ node }) => {
@@ -33,11 +33,19 @@ class BlogIndex extends React.Component {
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <small>
+                {node.frontmatter.date}
+                {` | ${node.timeToRead} minute read`}
+              </small>
+              <p dangerouslySetInnerHTML={{ __html: node.frontmatter.description }} />
             </div>
           )
         })}
+        <hr
+          style={{
+            marginBottom: rhythm(1),
+          }}
+        />
         <Footer />
       </Layout>
     )
@@ -56,13 +64,14 @@ export const pageQuery = graphql`
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
-          excerpt
+          timeToRead
           fields {
             slug
           }
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            description
           }
         }
       }

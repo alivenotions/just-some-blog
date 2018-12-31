@@ -14,7 +14,7 @@ class Layout extends React.Component {
         <h1
           style={{
             fontFamily: `Permanent Marker, sans-serif`,
-            ...scale(1.7),
+            ...scale(1.3),
             marginBottom: rhythm(1.55),
             marginTop: 0,
             color: `#2D3047`
@@ -59,7 +59,7 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(24),
+          maxWidth: rhythm(26),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >

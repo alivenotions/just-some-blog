@@ -26,7 +26,6 @@ function Bio() {
             <div style={{ ...scale(0.1), marginTop: rhythm(2) }}>
               <span><a href={`https://twitter.com/${social.twitter}`} target='_blank'>Twitter</a></span>
               <span><a href={`https://github.com/${social.github}`} target='_blank'>Github</a></span>
-              <span><a href={`https://instagram.com/${social.instagram}`} target='_blank'>Instagram</a></span>
               <span><a href={`mailto:${social.mail}`}>Mail</a></span>
             </div>
           </React.Fragment>
@@ -44,7 +43,6 @@ const bioQuery = graphql`
         social {
           twitter
           github
-          instagram
           mail
         }
       }
