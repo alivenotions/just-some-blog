@@ -14,9 +14,10 @@ class Layout extends React.Component {
         <h1
           style={{
             fontFamily: `Permanent Marker, sans-serif`,
-            ...scale(1.5),
-            marginBottom: rhythm(1.4),
+            ...scale(1.7),
+            marginBottom: rhythm(1.55),
             marginTop: 0,
+            color: `#2D3047`
           }}
         >
           <Link

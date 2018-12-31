@@ -3,9 +3,12 @@ module.exports = {
     title: `thinkspace.`,
     author: `Bhavdeep Dhanjal`,
     description: `Personal blog of Bhavdeep Dhanjal`,
-    siteUrl: ``,
+    siteUrl: `badaboom.netlify.com`,
     social: {
       twitter: `blankmannow`,
+      github: `alivenotions`,
+      instagram: `bhavdeep_dhanjal`,
+      mail: `dhanjalbhavdeep@gmail.com`
     },
   },
   plugins: [

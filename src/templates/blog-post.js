@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 
-import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
@@ -9,7 +8,7 @@ import { rhythm, scale } from '../utils/typography'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    const siteTitle = this.props.data.site.siteMetadata.title
+    const { social, title: siteTitle } = this.props.data.site.siteMetadata
     const { previous, next } = this.props.pageContext
 
     return (
@@ -32,7 +31,15 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
-        <Bio />
+        <div
+          style={{
+            marginBottom: rhythm(1),
+          }}
+        >
+          Thanks for reading the post!
+          You can drop me a message on <a href={`https://twitter.com/${social.twitter}`} target='_blank'>twitter </a>
+          or <a href={`mailto:${social.mail}`}>mail</a> me to discuss this post (or anything).
+        </div>
 
         <ul
           style={{
@@ -71,6 +78,10 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         author
+        social {
+          twitter
+          mail
+        }
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
