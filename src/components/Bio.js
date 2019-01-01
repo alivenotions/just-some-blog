@@ -19,13 +19,14 @@ function Bio() {
             >
               <p>
                 Hi! I am <strong>{author}</strong>. I'm a software engineer, poet, and a musician.
-                This blog is a space for my personal thoughts.<br />
-                I hope you have a good time here!
+                This blog is a space for my personal opinions. My goal is to share my thoughts with whoever is willing to read them.
+                <br /> <br />
+                Feel free to message me about anything. I hope you have a good time here!
               </p>
             </div>
-            <div style={{ ...scale(0.1), marginTop: rhythm(2) }}>
-              <span><a href={`https://twitter.com/${social.twitter}`} target='_blank'>Twitter</a></span>
-              <span><a href={`https://github.com/${social.github}`} target='_blank'>Github</a></span>
+            <div style={{ ...scale(0.1), marginTop: rhythm(1) }}>
+              <span><a href={`https://twitter.com/${social.twitter}`} target='_blank' rel="noopener">Twitter</a></span>
+              <span><a href={`https://github.com/${social.github}`} target='_blank' rel="noopener">Github</a></span>
               <span><a href={`mailto:${social.mail}`}>Mail</a></span>
             </div>
           </React.Fragment>

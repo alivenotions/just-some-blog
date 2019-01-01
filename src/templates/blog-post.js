@@ -38,7 +38,7 @@ class BlogPostTemplate extends React.Component {
           }}
         >
           Thanks for reading the post!
-          You can drop me a message on <a href={`https://twitter.com/${social.twitter}`} target='_blank'>twitter </a>
+          You can drop me a message on <a href={`https://twitter.com/${social.twitter}`} target='_blank' rel='noopener'>twitter </a>
           or <a href={`mailto:${social.mail}`}>mail</a> me to discuss this post (or anything).
         </div>
 

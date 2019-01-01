@@ -25,7 +25,7 @@ Wordpress2016.overrideThemeStyles = () => {
       backgroundColor: `#F3F3F3`,
     },
     'a': {
-      color: `#43B992`,
+      color: `#005C56`,
     },
     'a:hover': {
       boxShadow: `0 -0.2em 0 0 #43B992 inset`

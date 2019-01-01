@@ -64,7 +64,7 @@ module.exports = {
         short_name: `thinkspace`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#43B992`,
+        theme_color: `#005C56`,
         display: `minimal-ui`,
         icon: `content/assets/BD.png`,
       },
