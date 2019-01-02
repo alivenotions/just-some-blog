@@ -38,8 +38,11 @@ class BlogPostTemplate extends React.Component {
           }}
         >
           Thanks for reading the post!
-          You can drop me a message on <a href={`https://twitter.com/${social.twitter}`} target='_blank' rel='noopener'>twitter </a>
-          or <a href={`mailto:${social.mail}`}>mail</a> me to discuss this post (or anything).
+          You can drop me a message on&nbsp;
+          <a href={`https://twitter.com/${social.twitter}`} target='_blank' rel='noopener'>twitter</a>
+          &nbsp;or <a href={`mailto:${social.mail}`}>mail</a> me to discuss this post (or anything).<br /> <br />
+
+          <strong><a href={post.frontmatter.songUrl} target='_blank' rel='noopener'>Song of the post</a></strong>
         </div>
 
         <ul
@@ -93,6 +96,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        songUrl
       }
     }
   }
