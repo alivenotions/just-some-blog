@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `thinkspace.`,
+    title: `Thinkspace`,
     author: `Bhavdeep Dhanjal`,
     description: `Personal blog of Bhavdeep Dhanjal`,
-    siteUrl: `badaboom.netlify.com`,
+    siteUrl: `thinkspace.sh`,
     social: {
       twitter: `bhavdeepdhanjal`,
       github: `alivenotions`,
@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-131826835-1`,
       },
     },
     `gatsby-plugin-feed`,
