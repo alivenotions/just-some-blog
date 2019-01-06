@@ -5,7 +5,7 @@ module.exports = {
     description: `Personal blog of Bhavdeep Dhanjal`,
     siteUrl: `badaboom.netlify.com`,
     social: {
-      twitter: `blankmannow`,
+      twitter: `bhavdeepdhanjal`,
       github: `alivenotions`,
       instagram: `bhavdeep_dhanjal`,
       mail: `dhanjalbhavdeep@gmail.com`
