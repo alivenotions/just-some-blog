@@ -19,7 +19,7 @@ function Bio() {
             >
               <p>
                 Hi! I am <strong>{author}</strong>. I'm a software engineer, poet, and a musician.
-                This blog is a space for my personal opinions. My goal is to share my thoughts with whoever is willing to read them.
+                This blog is a space for my personal opinions.
                 <br /> <br />
                 Feel free to message me about anything. I hope you have a good time here!
               </p>
