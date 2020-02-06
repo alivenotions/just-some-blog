@@ -23,7 +23,7 @@ As an aside, [MPJ](https://twitter.com/mpjme) was one of the biggest reason for 
 
 Knowing just the API of a thing is good but trying to understand the reasoning for the concept can be more fulfilling many times. It helps you to see why something was created or developed and how it fits in the larger picture. It also makes you realize that a lot of what you learn is readily transferable to various other things. And that can enable you to concentrate on building solutions rather than keep worrying about the tools.
 
-Another advantage of this, that I have picked up, is that it makes being empathetic towards a library's (or anybody's) decision easier. Being interested in why something was done a way it was will encourage you to not dismiss things quickly (which I notice a lot of people do, rudely at that) as you'll be eager to know the reasoning behind it before you form an opinion.
+Another advantage of this, that I have picked up, is that it makes being empathetic towards a library's (or anybody's) decision easier. Being interested in why something was done in a way it was will encourage you to not dismiss things quickly (which I notice a lot of people do, rudely at that) as you'll be eager to know the reasoning behind it before you form an opinion.
 
 ## Try to learn across the stack
 
@@ -35,21 +35,21 @@ This is not for résumé padding but rather for having richer conversations.
 
 ## Shoot for heavier stuff
 
-Read things that you don't get 100%. Or things that are currently beyond your skill level. You may understand only 50% of it or maybe even less but it feeds your curiosity and makes you struggle through the content. You will do your own research, look for things, ask your own original questions.
+Read things that you don't get 100%. Or things that are currently beyond your skill level. You may understand only 50% of it or maybe even less but it feeds your curiosity and makes you struggle through the content. You will do your research, look for things, ask your original questions.
 
-This is also a humbling exercise because you will realize that there are things that you don't understand and have to work towards it. But there is a fine line between that excited feeling and a feeling that says that you suck. Whenever you're going to read/learn heavier stuff, consider it a judgment-free zone. Know that it is okay to stop at any time and that if you takeaway even one thing from the whole exercise, then that's a win!
+This is also a humbling exercise because you will realize that there are things that you don't understand and have to work towards it. But there is a fine line between that excited feeling and a feeling that says that you suck. Whenever you're going to read/learn heavier stuff, consider it a judgment-free zone. Know that it is okay to stop at any time and that if you take away even one thing from the whole exercise, then that's a win!
 
 This is probably the most personal point in this whole article and it may not work out the same for many of you.
 
-## Have your own side gig
+## Have a side gig
 
 The biggest reality hit you get going from college to a job is the realization that a lot of work is not that fun always. You end up doing a lot of boring stuff or at times just doing random things or not being assigned any work many times. A lot of my friends from college who started working also faced this.
 
-This can start getting on your nerves, and give a sense of unfulfillment, especially if you're not that mature in this space (as we generally are when starting out).
+This can start getting on your nerves, and give a sense of unfulfillment, especially if you're not that mature in this space (as we generally are when starting).
 
 I have found that having your own thing off-hours is absolutely crucial to a healthy mental state. This doesn't necessarily mean just coding after work. You can indulge in your hobbies, learn something new etc.
 
-Your office work does not define who you are but it is still a huge chunk of your day. The kick of it is that it is unstable and can change anytime. But doing your own thing is in your control and you choose what brings you satisfaction.
+Your office work does not define who you are but it is still a huge chunk of your day. The kick of it is that it is unstable and can change anytime. But doing your own thing is in your control and you choose what satisfies you.
 
 ## It's okay to feel bad on some days
 
@@ -81,11 +81,11 @@ I have struggled with both these scenarios, the former one especially, and I hav
 
 ## Go where your curiosity takes you
 
-Deciding what to learn is a difficult choice in today's world. Everyone has an opinion about what you should do or which path to follow and many of these opinions should be respected. You can choose what to learn next, based on the current trend or based on the job market space etc etc. But that should not deter you from following your curiosity.
+Deciding what to learn is a difficult choice in today's world. Everyone has an opinion about what you should do or which path to follow and many of these opinions should be respected. You can choose what to learn next, based on the current trend or based on the job market space etc. But that should not deter you from following your curiosity.
 
 I am not advocating being unemployed and learning a dead technology because that isn't pragmatic. But once you are in a job and are looking to learn something, go where your curiosity takes you.
 
-Sometimes satiating that knowledge thirst is so much more important that it doesn't matter if no one is paying you. This is true for tech, as it is for any other skill that you want to learn. Many times I worry that learning something isn't going to pay off in any form in the future. This is a regret waiting to happen.
+Sometimes satiating that knowledge thirst is important and it doesn't matter if anyone is paying you. This is true for tech, as it is for any other skill that you want to learn. Many times I worry that learning something isn't going to pay off in any form in the future. This is a regret waiting to happen.
 
 Besides, learning anything will help you grow and make you a well-rounded person. Aim to be that person.
 
