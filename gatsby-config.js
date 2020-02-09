@@ -3,7 +3,7 @@ module.exports = {
     title: `Thinkspace`,
     author: `Bhavdeep Dhanjal`,
     description: `Personal blog of Bhavdeep Dhanjal`,
-    siteUrl: `thinkspace.sh`,
+    siteUrl: `https://thinkspace.sh`,
     social: {
       twitter: `bhavdeepdhanjal`,
       github: `alivenotions`,
