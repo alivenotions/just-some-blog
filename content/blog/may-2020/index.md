@@ -1,5 +1,5 @@
 ---
-title: May 2020 Status
+title: May 2020
 date: '2020-05-04'
 description: 'Loosely related paragraphs with an unsatisfying ending'
 songUrl: 'https://www.youtube.com/watch?v=C7VlC0QjdHU'
