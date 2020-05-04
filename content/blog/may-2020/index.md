@@ -20,7 +20,7 @@ Well, that didn't happen. I ended up writing just twice. My fears of committing 
 
 I moved to Germany last year in May and it is about to be a year since I have been living here away from my home in India. I was fortunate to get such an opportunity and I like living in Hamburg. A lot of the last year went away in adjusting and getting better technically. Especially the 3 month period of August-October was quite productive where I ended up working and learning a lot.
 
-I wanted to write but never sat down to write but they were more ideas that I thought about in the shower and never sat down to flesh out. I put poetry on the backburner too as I was blanking out more often than not. I broke with my girlfriend of two years while I was in Hamburg in somewhere around July. It was terrible and I ended up overdosing on the distraction train more than ever. I was doing [busy work](https://en.wikipedia.org/wiki/Busy_work) all the time and everything felt under-stimulating.
+I wanted to write but never sat down to write but they were more ideas that I thought about in the shower and never sat down to flesh out. I put poetry on the backburner too as I was blanking out more often than not. I broke up with my girlfriend of two years while I was in Hamburg in somewhere around July. It was terrible and I ended up overdosing on the distraction train more than ever. I was doing [busy work](https://en.wikipedia.org/wiki/Busy_work) all the time and everything felt under-stimulating.
 
 Towards the latter part of the year I was moving aimlessly and hurtling at great speed towards nothing in particular, maybe the end of the year(?). It is quite fascinating how easy it is for a time period to become a blur when you have no emotional anchors as checkpoints.
 
