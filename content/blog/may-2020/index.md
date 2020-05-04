@@ -1,7 +1,7 @@
 ---
 title: May 2020 Status
 date: '2020-05-04'
-description: 'My plans and what have I been upto'
+description: 'Loosely related paragraphs with an unsatisfying ending'
 songUrl: 'https://www.youtube.com/watch?v=C7VlC0QjdHU'
 ---
 
