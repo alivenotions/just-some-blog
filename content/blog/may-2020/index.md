@@ -37,7 +37,7 @@ I was back and Hamburg was in Christmas spirit, it was a fun time and the month 
 On Christmas, I sat in the plane for Leeds for a week-long stay with my friends Sid and Shridhar. It was some of the best time I had in some time.
 We stayed at his student accommodation, a lot of his friends were away and it was the holidays, and we ended up not going out much for sightseeing or to some other city (although we did make a failed plan for Liverpool).
 
-I did not pressure myself to work or be productive. I watched a lot of football with them, we would joke around all the time, or go down and play pool or just talk in general. I would wake up and work on some songs or write something. One night I sat up and worked on [Kreise](kreise.xyz).
+I did not pressure myself to work or be productive. I watched a lot of football with them, we would joke around all the time, or go down and play pool or just talk in general. I would wake up and work on some songs or write something. One night I sat up and worked on [Kreise](https://kreise.xyz).
 
 I think the reason I enjoyed it so much was because I felt no rush to go somewhere or do something and I didn't feel isolated as I had started feeling in Hamburg.
 I spent New Year's Day in London going around looking at different aquatic life at Sealife and just walking around in the city.
