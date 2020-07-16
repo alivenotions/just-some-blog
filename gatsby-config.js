@@ -8,7 +8,7 @@ module.exports = {
       twitter: `bhavdeepdhanjal`,
       github: `alivenotions`,
       instagram: `bhavdeep_dhanjal`,
-      mail: `dhanjalbhavdeep@gmail.com`
+      mail: `bhavdeep@hey.com`
     },
   },
   plugins: [
