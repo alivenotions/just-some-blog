@@ -1,16 +1,6 @@
 import Typography from 'typography'
 import Wordpress2016 from 'typography-theme-wordpress-2016'
 
-Wordpress2016.googleFonts = [
-  {
-    name: 'Permanent Marker',
-    styles: ['400'],
-  },
-  {
-    name: 'Montserrat',
-    styles: ['700', '500'],
-  },
-]
 Wordpress2016.headerFontFamily = ['Montserrat', 'sans-serif']
 Wordpress2016.bodyFontFamily = ['Montserrat', 'sans-serif']
 Wordpress2016.headerWeight = 700
