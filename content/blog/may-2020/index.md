@@ -11,7 +11,7 @@ Today is the end of two weeks of vacation where I did not go anywhere (lockdown 
 
 **Sigh** 
 
-I wrote the [first post](https://thinkspace.sh/pilot) on my blog in 2019 Jan and I thought I would write regularly after that.
+I wrote the [first post](/pilot) on my blog in 2019 Jan and I thought I would write regularly after that.
 Well, that didn't happen. I ended up writing just twice. My fears of committing to a complete post were true and I ended up slacking again. I have a lot of ideas so I am hoping this post can act like a reboot.
 
 ## Taking stock of the past year or so

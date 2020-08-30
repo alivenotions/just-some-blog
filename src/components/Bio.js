@@ -25,10 +25,10 @@ function Bio() {
               </p>
             </div>
             <div style={{ ...scale(0.1), marginTop: rhythm(1) }}>
-              <span><a href={`https://twitter.com/${social.twitter}`} target='_blank' rel="noopener">Twitter</a></span>
-              <span><a href={`https://github.com/${social.github}`} target='_blank' rel="noopener">Github</a></span>
               <span><a href={`mailto:${social.mail}`}>Mail</a></span>
               <span><a href="/rss.xml"  target='_blank' rel='noopener'>RSS</a></span>
+              <span><a href={`https://twitter.com/${social.twitter}`} target='_blank' rel="noopener">Twitter</a></span>
+              <span><a href={`https://github.com/${social.github}`} target='_blank' rel="noopener">Github</a></span>
             </div>
           </React.Fragment>
         )

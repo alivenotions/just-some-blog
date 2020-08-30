@@ -29,7 +29,6 @@
     "react-dom": "16.13.1",
     "react-helmet": "6.1.0",
     "react-typography": "^0.16.19",
-    "typeface-josefin-sans": "0.0.75",
     "typeface-montserrat": "0.0.75",
     "typeface-permanent-marker": "0.0.72",
     "typography": "^0.16.19",

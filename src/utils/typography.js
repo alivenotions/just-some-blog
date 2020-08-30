@@ -3,19 +3,15 @@ import Wordpress2016 from 'typography-theme-wordpress-2016'
 
 Wordpress2016.googleFonts = [
   {
-    name: 'Josefin Sans',
-    styles: ['700'],
-  },
-  {
     name: 'Permanent Marker',
     styles: ['400'],
   },
   {
     name: 'Montserrat',
-    styles: ['700'],
+    styles: ['700', '500'],
   },
 ]
-Wordpress2016.headerFontFamily = ['Josefin Sans', 'serif']
+Wordpress2016.headerFontFamily = ['Montserrat', 'sans-serif']
 Wordpress2016.bodyFontFamily = ['Montserrat', 'sans-serif']
 Wordpress2016.headerWeight = 700
 
@@ -35,7 +31,13 @@ Wordpress2016.overrideThemeStyles = () => {
     },
     'span': {
       marginRight: `0.5em`
-    }
+    },
+    'p': {
+      marginBottom: `1.5rem`
+    },
+    'h1,h2,h3,h4,h5,h6': {
+      marginTop: `2.5rem`
+    },
   }
 }
 
