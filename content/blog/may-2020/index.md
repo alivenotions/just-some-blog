@@ -61,7 +61,7 @@ I almost always failed most of my tasks or if I did end up doing the tasks, I wa
 
 ### Corona and isolation overdrive
 
-On March 16th, Hamburg went in lockdown and on March 24th I was laid-off with 3 months notice as my company started haemorrhaging money due to corona causing a loss in business.
+On March 16th, Hamburg went in lockdown and the future of my company was in jeopardy as my company started haemorrhaging money due to corona causing a loss in business.
 
 It has been over 50 days now since I have spoken to anyone in person. Apart from the occasional _Danke Schön_ and _Tschüss_ with the supermarket checkout person. The first month was horrible. I was constantly feeling isolated and overly anxious due to people dying everywhere and being worried about the well being of my friends and family.
 
