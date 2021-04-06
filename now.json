@@ -1,12 +1,18 @@
 {
   "version": 2,
   "name": "thinkspace",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@now/static-build",
-      "config": { "distDir": "public" }
-    }
+  "alias": [
+    "thinkspace.sh",
+    "www.thinkspace.sh"
   ],
-  "alias": ["thinkspace.sh", "www.thinkspace.sh"]
+  "rewrites": [
+    {
+      "source": "/one-year-in-tech",
+      "destination": "/one-year-in-tech.html"
+    },
+    {
+      "source": "/pilot",
+      "destination": "/pilot.html"
+    }
+  ]
 }
