@@ -11,11 +11,8 @@ body {
   font-weight: 700;
 }
 
-hr {
-  background: hsla(0,0%,0%,0.2);
-  border: none;
-  height: 1px;
-  margin: 1.75rem 0;
+footer {
+  font-family: monospace;
 }
 
 ul {
